@@ -1,5 +1,5 @@
 # Surrogator
-Discover open access surrogates of paywalled scientific papers
+Discover open access surrogates of paywalled research papers
 
 Surrogator is a tool to automatically identify open access surrogates for research papers.
 We call a collection of research papers written by the same author(s) (or research group) as surrogates for each other if they are very closely related in content.
