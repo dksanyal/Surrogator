@@ -16,7 +16,7 @@ In the following, [1A] and [1B] form an example of surrogates:
 Similarly a technical report could be a surrogate for a conference publication.
 
 UTILITY:
-If the reader has access to one of the papers, he has a fair idea of the other paper, too. This is extremely useful if one of the papers is open access and the other is behind a paywall. We, at the National Digital Library of India, are using this aspect to take you as close as possible to paywalled articles and also to increase the reach of your research. We have used Surrogator to discover open access surrogates of access-restricted papers indexed in the National Digital Library of India.
+If the reader has access to one of the papers, he has a fair idea of the other paper, too. This is extremely useful if one of the papers is open access and the other is behind a paywall. We, at the National Digital Library of India, are using this aspect to take you as close as possible to paywalled articles and also to increase the reach of your own research. We have used Surrogator to discover open access surrogates of access-restricted papers indexed in the National Digital Library of India.
 
 TOOL DESIGN:
 The tool is a Python script with a frontend GUI. Can also be run from commandline in Linux. Tested on Python 3.4 on Ubuntu.
