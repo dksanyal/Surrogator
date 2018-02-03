@@ -20,7 +20,7 @@ If the reader has access to one of the papers, he has a fair idea of the other p
 
 TOOL DESIGN:
 The tool is a Python script with a frontend GUI. Can also be run from commandline in Linux. Tested on Python 3.4 on Ubuntu.
-Uses several advanced modules like BeautifulSoup, PyQt4, nltk, selenium, pandas, numpy, gensim.models, and many more. It is highly customizable.
+Uses several advanced modules like BeautifulSoup, PyQt4, nltk, selenium, pandas, numpy, gensim.models, and many more. It is highly customizable. Incorporates state-of-the-art machine learning algorithms.
 
 TESTING:
 Results of preliminary evaluation of Surrogator on a sample set of 120 Computer Science and Electrical Engg. papers is provided.
