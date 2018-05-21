@@ -23,4 +23,12 @@ The tool is a Python script with a frontend GUI. Can also be run from commandlin
 Uses several advanced modules like BeautifulSoup, PyQt4, nltk, selenium, pandas, numpy, gensim.models, and many more. It is highly customizable. Incorporates state-of-the-art machine learning algorithms.
 
 TESTING:
-Results of preliminary evaluation of Surrogator on a sample set of 120 Computer Science and Electrical Engg. papers is provided in EvaluationSurrogatorV2_v1_0.xlsx . 
+Results of preliminary evaluation of Surrogator on a sample set of 120 Computer Science and Electrical Engg. papers is provided in EvaluationSurrogatorV2_v1_0.xlsx. 
+
+CODE:
+We provide 2 versions:
+
+Version 1: This is a simplified script. Corresponds to a Demo at CoDS-COMAD 2018.
+
+Version 2: This is a script with enhanced functionality. Corresponds to poster at JCDL 2018.
+
