@@ -29,6 +29,8 @@ CODE:
 We provide 2 versions:
 
 Version 1: This is a simplified script. Corresponds to a Demo at CoDS-COMAD 2018.
+[Input: Keywords, Source; Output: List of results]
 
 Version 2: This is a script with enhanced functionality. Corresponds to poster at JCDL 2018.
+[Input: Keywords. Source, Exact match / Near match, Fields to compare (authors/title/abstract), Maximum difference in publication years, Number of pages of Google Scholar to use, how many of Top-K results to return; Output: List of results] 
 
