@@ -32,7 +32,7 @@ Version 1: This is a simplified script. Corresponds to a Demo at CoDS-COMAD 2018
 
 [Input: Keywords, Source; Output: List of results] 
 
-[Tested on CentOS Linux release 7.3.1611 (Core), Python 3.6 only]
+[Latest version: 1.11; Tested on: CentOS Linux release 7.3.1611 (Core), Python 3.6 only]
 
 
 Version 2: This is a script with enhanced functionality. Corresponds to poster at JCDL 2018.
