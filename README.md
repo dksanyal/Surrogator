@@ -41,3 +41,4 @@ Version 2: This is a script with enhanced functionality. Corresponds to poster a
 
 [Latest version: 2.6; Tested on: CentOS Linux release 7.3.1611 (Core), Python 3.6 only; Additional requirements: Download https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz to script directory, download  https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.simple.zip, unzip and save the folder wiki.sample in script directory, Firefox 60, geckodriver v0.20.1]
 
+(N.B. The screenshots and XL sheet EvaluationSurrogatorV2_v1_0.xlsx correspond to a slightly older sub-version of Surrogator v2.)
