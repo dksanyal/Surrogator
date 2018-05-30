@@ -37,7 +37,7 @@ Version 1: This is a simplified script. Corresponds to a Demo at CoDS-COMAD 2018
 
 Version 2: This is a script with enhanced functionality. Corresponds to poster at JCDL 2018.
 
-[Input: Keywords. Source, Exact match / Near match, Fields to compare (authors/title/abstract), Maximum difference in publication years, Number of pages of Google Scholar to use, how to compare abstracts, how many of Top-K results to return; Output: List of results; How to run: How to run: python3.6 surrogator__v2_3.py ]
+[Input: Keywords. Source, Exact match / Near match, Fields to compare (authors/title/abstract), Maximum difference in publication years, Number of pages of Google Scholar to use, how to compare abstracts, how many of Top-K results to return; Output: List of results; How to run: How to run: python3.6 surrogator__v2_3.py]
 
-[Latest version: 2.3; Tested on: CentOS Linux release 7.3.1611 (Core), Python 3.6 only]
+[Latest version: 2.5; Tested on: CentOS Linux release 7.3.1611 (Core), Python 3.6 only; Additional requirements: Download https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz to script directory, download  https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.simple.zip, unzip and save the folder wiki.sample in script directory]
 
