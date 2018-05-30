@@ -16,7 +16,7 @@ In the following, [1A] and [1B] form an example of surrogates:
 Similarly a technical report could be a surrogate for a conference publication.
 
 UTILITY:
-If the reader has access to one of the papers, he has a fair idea of the other paper, too. This is extremely useful if one of the papers is open access and the other is behind a paywall. We, at the National Digital Library of India (NDLI), are using this aspect to take you as close as possible to paywalled articles and also to increase the reach of your own research. We have used Surrogator to discover open access surrogates of access-restricted papers indexed in NDLI.
+If the reader has access to one of the papers, he has a fair idea of the other paper, too. This is extremely useful if one of the papers is open access and the other is behind a paywall. We, at the National Digital Library of India (NDLI), are exploring this aspect to take you as close as possible to paywalled articles and also to increase the reach of your own research. As part of our research, we have used Surrogator to discover open access surrogates of access-restricted papers indexed in NDLI.
 
 TOOL DESIGN:
 The tool is a Python script with a frontend GUI. Can also be run from commandline in Linux. Tested on Python 3.4 on Ubuntu.
@@ -58,7 +58,7 @@ N.B.
 
 4. This tool is a research prototype to test certain ideas. It does not intend to use Google Scholar data or any other data in any unethical manner.
 
-5. The tool is not integrated with NLDI. NDLI does not show use the services of this tool in any form.
+5. The tool is not integrated with NLDI. Therefore, NDLI does not show use the services of this tool in any form.
 
 6. We shall be delighted to receive your feedback, bug reports, bug fixes, change requests and upgrades to the tool.
 
