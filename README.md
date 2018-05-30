@@ -47,6 +47,18 @@ Version 2: This is a script with enhanced functionality. Corresponds to poster a
 
 N.B. 
 1. The screenshots and XL sheet EvaluationSurrogatorV2_v1_0.xlsx correspond to a slightly old sub-version of Surrogator v2.
-2. Excessive use of Surrogator might lead to Google Scholar blocking your IP.
-3. This tool is a research prototype to test certain ideas. It does not intend to use Google Scholar data or any other data in any unethical manner.
-4. The tool is not integrated with NLDI. NDLI does not show use the services of this tool in any way.
+
+2. If you use our tool, we request you to kindly cite the following papers (especially [B]):
+
+[A] T. Y. S. S. Santosh, Debarshi Kumar Sanyal, and Plaban Kumar Bhowmick. 2018. Surrogator: Enriching a Digital Library with Open Access Surrogate Resources. In ACM India Joint International Conference on Data Sciences and Management of Data, Demo Track (CoDS-COMAD’18).
+
+[B] T. Y. S. S. Santosh, Debarshi Kumar Sanyal, Plaban Kumar Bhowmick, and Partha Pratim Das. 2018. Surrogator: A Tool to Enrich a Digital Library with Open Access Surrogate Resources. In Proceedings of ACM/IEEE Joint Conference on Digital Libraries, Poster Track (JCDL’18).
+
+3. Excessive use of Surrogator might lead to Google Scholar blocking your IP.
+
+4. This tool is a research prototype to test certain ideas. It does not intend to use Google Scholar data or any other data in any unethical manner.
+
+5. The tool is not integrated with NLDI. NDLI does not show use the services of this tool in any form.
+
+6. We shall be delighted to receive your feedback, bug reports, bug fixes, change requests and upgrades to the tool.
+
