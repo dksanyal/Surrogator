@@ -30,19 +30,22 @@ We provide 2 versions:
 
 Version 1: This is a simplified script. Corresponds to a Demo at CoDS-COMAD 2018.
 
-[Input: Keywords, Source; Output: List of results; How to run: python3.6 surrogator__v1_11.py] 
+[Input: Keywords, Source; Output: List of results; How to run: python3.6 surrogator__v1_11.py 
 
-[Latest version: 1.11; Tested on: CentOS Linux release 7.3.1611 (Core), Python 3.6 only]
+ Latest version: 1.11; Tested on: CentOS Linux release 7.3.1611 (Core), Python 3.6 only
 
-[How to run: python3.6 surrogator__v1_11.py]
+ How to run: python3.6 surrogator__v1_11.py]
 
 
 Version 2: This is a script with enhanced functionality. Corresponds to poster at JCDL 2018.
 
-[Input: Keywords. Source, Exact match / Near match, Fields to compare (authors/title/abstract), Maximum difference in publication years, Number of pages of Google Scholar to use, how to compare abstracts, how many of Top-K results to return; Output: List of results; How to run: How to run: python3.6 surrogator__v2_3.py]
+Input: Keywords. Source, Exact match / Near match, Fields to compare (authors/title/abstract), Maximum difference in publication years, Number of pages of Google Scholar to use, how to compare abstracts, how many of Top-K results to return; Output: List of results; How to run: How to run: python3.6 surrogator__v2_3.py
 
-[Latest version: 2.6; Tested on: CentOS Linux release 7.3.1611 (Core), Python 3.6 only; Additional requirements: Download https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz to script directory, Download  https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.simple.zip, unzip and save the folder wiki.sample in script directory, Install Firefox v60, Download geckodriver v0.20.1 to script directory]
+Latest version: 2.6; Tested on: CentOS Linux release 7.3.1611 (Core), Python 3.6 only; Additional requirements: Download https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz to script directory, Download  https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.simple.zip, unzip and save the folder wiki.sample in script directory, Install Firefox v60, Download geckodriver v0.20.1 to script directory
 
-[How to run: python3.6 surrogator__v2_6.py]
+How to run: python3.6 surrogator__v2_6.py]
 
-(N.B. The screenshots and XL sheet EvaluationSurrogatorV2_v1_0.xlsx correspond to a slightly old sub-version of Surrogator v2.)
+N.B. 
+1. The screenshots and XL sheet EvaluationSurrogatorV2_v1_0.xlsx correspond to a slightly old sub-version of Surrogator v2.
+2. Excessive use of Surrogator might lead to Google Scholar blocking your IP.
+3. This tool is a research prototype to test certain ideas. It does not intend to use Google Scholar data in any unethical manner.
