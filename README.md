@@ -41,8 +41,8 @@ Version 2: This is a script with enhanced functionality. Corresponds to poster a
 
 [Input: Keywords. Source, Exact match / Near match, Fields to compare (authors/title/abstract), Maximum difference in publication years, Number of pages of Google Scholar to use, how to compare abstracts, how many of Top-K results to return; Output: List of results; How to run: How to run: python3.6 surrogator__v2_3.py]
 
-[How to run: python3.6 surrogator__v2_6.py]
-
 [Latest version: 2.6; Tested on: CentOS Linux release 7.3.1611 (Core), Python 3.6 only; Additional requirements: Download https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz to script directory, Download  https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.simple.zip, unzip and save the folder wiki.sample in script directory, Install Firefox v60, Download geckodriver v0.20.1 to script directory]
+
+[How to run: python3.6 surrogator__v2_6.py]
 
 (N.B. The screenshots and XL sheet EvaluationSurrogatorV2_v1_0.xlsx correspond to a slightly older sub-version of Surrogator v2.)
