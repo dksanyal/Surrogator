@@ -48,4 +48,5 @@ Version 2: This is a script with enhanced functionality. Corresponds to poster a
 N.B. 
 1. The screenshots and XL sheet EvaluationSurrogatorV2_v1_0.xlsx correspond to a slightly old sub-version of Surrogator v2.
 2. Excessive use of Surrogator might lead to Google Scholar blocking your IP.
-3. This tool is a research prototype to test certain ideas. It does not intend to use Google Scholar data in any unethical manner.
+3. This tool is a research prototype to test certain ideas. It does not intend to use Google Scholar data or any other data in any unethical manner.
+4. The tool is not integrated with NLDI. NDLI does not show use the services of this tool in any way.
