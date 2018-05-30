@@ -45,4 +45,4 @@ Version 2: This is a script with enhanced functionality. Corresponds to poster a
 
 [How to run: python3.6 surrogator__v2_6.py]
 
-(N.B. The screenshots and XL sheet EvaluationSurrogatorV2_v1_0.xlsx correspond to a slightly older sub-version of Surrogator v2.)
+(N.B. The screenshots and XL sheet EvaluationSurrogatorV2_v1_0.xlsx correspond to a slightly old sub-version of Surrogator v2.)
