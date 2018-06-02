@@ -30,7 +30,7 @@ We provide 2 versions:
 
 Version 1: This is a simplified script. Corresponds to a Demo at CoDS-COMAD 2018.
 
-[Input: Keywords, Source; Output: List of results.
+ [Input: Keywords, Source; Output: List of results.
 
  Latest version: 1.11; Tested on: CentOS Linux release 7.3.1611 (Core), Python 3.6 only
 
