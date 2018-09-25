@@ -25,8 +25,8 @@ If you use our tool, please cite the following papers (especially [A]):
 
 [B] T. Y. S. S. Santosh, Debarshi Kumar Sanyal, and Plaban Kumar Bhowmick. 2018. Surrogator: Enriching a Digital Library with Open Access Surrogate Resources. In ACM India Joint International Conference on Data Sciences and Management of Data, Demo Track (CoDS-COMAD’18).
 
-CODE
-----
+CODE / HOW TO RUN
+-----------------
 The tool is a Python script with a frontend GUI. Can also be run from commandline in Linux. Tested on Python 3.4 on Ubuntu.
 Uses several advanced modules like BeautifulSoup, PyQt4, nltk, selenium, pandas, numpy, gensim.models, and many more. It is highly customizable. Incorporates state-of-the-art machine learning algorithms.
 We provide 2 versions:
@@ -49,8 +49,8 @@ Version 2: This is a script with enhanced functionality. Corresponds to poster a
  How to run: python3 surrogator__v{version}.py]
 
 
-TEST
-----
+TEST REPORT
+-----------
 Results of preliminary evaluation of Surrogator on a sample set of 120 Computer Science and Electrical Engg. papers is provided in EvaluationSurrogatorV2_v1_0.xlsx. It corresponds to a slightly old sub-version of Surrogator v2.
 
 
