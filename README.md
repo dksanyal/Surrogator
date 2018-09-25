@@ -22,8 +22,6 @@ TOOL DESIGN:
 The tool is a Python script with a frontend GUI. Can also be run from commandline in Linux. Tested on Python 3.4 on Ubuntu.
 Uses several advanced modules like BeautifulSoup, PyQt4, nltk, selenium, pandas, numpy, gensim.models, and many more. It is highly customizable. Incorporates state-of-the-art machine learning algorithms.
 
-TESTING:
-Results of preliminary evaluation of Surrogator on a sample set of 120 Computer Science and Electrical Engg. papers is provided in EvaluationSurrogatorV2_v1_0.xlsx. 
 
 CODE:
 We provide 2 versions:
@@ -45,14 +43,21 @@ Version 2: This is a script with enhanced functionality. Corresponds to poster a
 
  How to run: python3 surrogator__v{version}.py]
 
+
+TESTING:
+Results of preliminary evaluation of Surrogator on a sample set of 120 Computer Science and Electrical Engg. papers is provided in EvaluationSurrogatorV2_v1_0.xlsx. It corresponds to a slightly old sub-version of Surrogator v2.
+
+
 N.B. 
-1. The screenshots and XL sheet EvaluationSurrogatorV2_v1_0.xlsx correspond to a slightly old sub-version of Surrogator v2.
+1. The screenshots and XL sheet EvaluationSurrogatorV2_v1_0.xlsx correspond to a slightly old sub-version of Surrogator v2. So the screenshots differ from the interface of Surrogator v2 available in this repository. The results returned by Surrogator depends on NDLI and Google Scholar's output. Therefore, the results you get by running Surrogator may differ from what is reported in the XL sheet.
 
-2. If you use our tool, we request you to kindly cite the following papers (especially [B]):
+2. If you use our tool, we request you to kindly cite the following papers (especially [A]):
 
-[A] T. Y. S. S. Santosh, Debarshi Kumar Sanyal, and Plaban Kumar Bhowmick. 2018. Surrogator: Enriching a Digital Library with Open Access Surrogate Resources. In ACM India Joint International Conference on Data Sciences and Management of Data, Demo Track (CoDS-COMAD’18).
+[A] T. Y. S. S. Santosh, Debarshi Kumar Sanyal, Plaban Kumar Bhowmick, and Partha Pratim Das. 2018. Surrogator: A Tool to Enrich a Digital Library with Open Access Surrogate Resources. In Proceedings of ACM/IEEE Joint Conference on Digital Libraries, Poster Track (JCDL’18).
 
-[B] T. Y. S. S. Santosh, Debarshi Kumar Sanyal, Plaban Kumar Bhowmick, and Partha Pratim Das. 2018. Surrogator: A Tool to Enrich a Digital Library with Open Access Surrogate Resources. In Proceedings of ACM/IEEE Joint Conference on Digital Libraries, Poster Track (JCDL’18).
+[B] T. Y. S. S. Santosh, Debarshi Kumar Sanyal, and Plaban Kumar Bhowmick. 2018. Surrogator: Enriching a Digital Library with Open Access Surrogate Resources. In ACM India Joint International Conference on Data Sciences and Management of Data, Demo Track (CoDS-COMAD’18).
+
+
 
 3. Excessive use of Surrogator might lead to Google Scholar blocking your IP.
 
@@ -61,4 +66,5 @@ N.B.
 5. The tool is not integrated with NLDI. Therefore, NDLI does not show use the services of this tool in any form.
 
 6. We shall be delighted to receive your feedback, bug reports, bug fixes, change requests and upgrades to the tool.
+
 
