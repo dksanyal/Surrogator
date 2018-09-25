@@ -16,6 +16,9 @@ Similarly a technical report could be a surrogate for a conference publication.
 UTILITY
 -------
 If the reader has access to one of the papers, he has a fair idea of the other paper, too. This is extremely useful if one of the papers is open access and the other is behind a paywall. We, at the National Digital Library of India (NDLI), are exploring this aspect to take you as close as possible to paywalled articles and also to increase the reach of your own research. As part of our research, we have used Surrogator to discover open access surrogates of access-restricted papers indexed in NDLI.
+
+HOW TO CITE
+-----------
 If you use our tool, please cite the following papers (especially [A]):
 
 [A] T. Y. S. S. Santosh, Debarshi Kumar Sanyal, Plaban Kumar Bhowmick, and Partha Pratim Das. 2018. Surrogator: A Tool to Enrich a Digital Library with Open Access Surrogate Resources. In Proceedings of ACM/IEEE Joint Conference on Digital Libraries, Poster Track (JCDL’18).
@@ -50,8 +53,8 @@ Version 2: This is a script with enhanced functionality. Corresponds to poster a
  How to run: python3 surrogator__v{version}.py]
 
 
-TESTING
--------
+TEST
+----
 Results of preliminary evaluation of Surrogator on a sample set of 120 Computer Science and Electrical Engg. papers is provided in EvaluationSurrogatorV2_v1_0.xlsx. It corresponds to a slightly old sub-version of Surrogator v2.
 
 
