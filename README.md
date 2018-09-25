@@ -17,6 +17,11 @@ Similarly a technical report could be a surrogate for a conference publication.
 
 UTILITY:
 If the reader has access to one of the papers, he has a fair idea of the other paper, too. This is extremely useful if one of the papers is open access and the other is behind a paywall. We, at the National Digital Library of India (NDLI), are exploring this aspect to take you as close as possible to paywalled articles and also to increase the reach of your own research. As part of our research, we have used Surrogator to discover open access surrogates of access-restricted papers indexed in NDLI.
+If you use our tool, please cite the following papers (especially [A]):
+
+[A] T. Y. S. S. Santosh, Debarshi Kumar Sanyal, Plaban Kumar Bhowmick, and Partha Pratim Das. 2018. Surrogator: A Tool to Enrich a Digital Library with Open Access Surrogate Resources. In Proceedings of ACM/IEEE Joint Conference on Digital Libraries, Poster Track (JCDL’18).
+
+[B] T. Y. S. S. Santosh, Debarshi Kumar Sanyal, and Plaban Kumar Bhowmick. 2018. Surrogator: Enriching a Digital Library with Open Access Surrogate Resources. In ACM India Joint International Conference on Data Sciences and Management of Data, Demo Track (CoDS-COMAD’18).
 
 TOOL DESIGN:
 The tool is a Python script with a frontend GUI. Can also be run from commandline in Linux. Tested on Python 3.4 on Ubuntu.
@@ -51,20 +56,12 @@ Results of preliminary evaluation of Surrogator on a sample set of 120 Computer 
 N.B. 
 1. The screenshots and XL sheet EvaluationSurrogatorV2_v1_0.xlsx correspond to a slightly old sub-version of Surrogator v2. So the screenshots differ from the interface of Surrogator v2 available in this repository. The results returned by Surrogator depends on NDLI and Google Scholar's output. Therefore, the results you get by running Surrogator may differ from what is reported in the XL sheet.
 
-2. If you use our tool, we request you to kindly cite the following papers (especially [A]):
+2. Excessive use of Surrogator might lead to Google Scholar blocking your IP.
 
-[A] T. Y. S. S. Santosh, Debarshi Kumar Sanyal, Plaban Kumar Bhowmick, and Partha Pratim Das. 2018. Surrogator: A Tool to Enrich a Digital Library with Open Access Surrogate Resources. In Proceedings of ACM/IEEE Joint Conference on Digital Libraries, Poster Track (JCDL’18).
+3. This tool is a research prototype to test certain ideas. It does not intend to use Google Scholar data or any other data in any unethical manner.
 
-[B] T. Y. S. S. Santosh, Debarshi Kumar Sanyal, and Plaban Kumar Bhowmick. 2018. Surrogator: Enriching a Digital Library with Open Access Surrogate Resources. In ACM India Joint International Conference on Data Sciences and Management of Data, Demo Track (CoDS-COMAD’18).
+4. The tool is not integrated with NLDI. Therefore, NDLI does not show use the services of this tool in any form.
 
-
-
-3. Excessive use of Surrogator might lead to Google Scholar blocking your IP.
-
-4. This tool is a research prototype to test certain ideas. It does not intend to use Google Scholar data or any other data in any unethical manner.
-
-5. The tool is not integrated with NLDI. Therefore, NDLI does not show use the services of this tool in any form.
-
-6. We shall be delighted to receive your feedback, bug reports, bug fixes, change requests and upgrades to the tool.
+5. We shall be delighted to receive your feedback, bug reports, bug fixes, change requests and upgrades to the tool.
 
 
