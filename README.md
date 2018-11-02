@@ -54,11 +54,11 @@ Results of preliminary evaluation of Surrogator on a sample set of 120 Computer 
 N.B. 
 1. The screenshots and XL sheet EvaluationSurrogatorV2_v1_0.xlsx correspond to a slightly old sub-version of Surrogator v2. So the screenshots differ from the interface of Surrogator v2 available in this repository. The results returned by Surrogator depends on NDLI and Google Scholar's output. Therefore, the results you get by running Surrogator may differ from what is reported in the XL sheet.
 
-2. Excessive use of Surrogator might lead to Google Scholar blocking your IP.
+2. Excessive use of Surrogator might cause Google Scholar to block your IP.
 
-3. This tool is a research prototype to test certain ideas. It does not intend to use Google Scholar data or any other data in any unethical manner.
+3. This tool is a research prototype to test certain ideas. It does not intend to use Google Scholar data or any other data in unethical manner.
 
-4. The tool is not integrated with NLDI. Therefore, NDLI does not show use the services of this tool in any form.
+4. The tool is not integrated with NLDI. Therefore, NDLI does not use the services of this tool in any form.
 
 5. We shall be delighted to receive your feedback, bug reports, bug fixes, change requests and upgrades to the tool.
 
